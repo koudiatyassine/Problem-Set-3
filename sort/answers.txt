@@ -1,0 +1,11 @@
+sort1 uses: Selection Sort
+
+How do you know?: The performance time for reversed and random inputs is significantly higher compared to sorted input, indicating an O(n^2) complexity characteristic of Selection Sort.
+
+sort2 uses: Merge Sort
+
+How do you know?: The performance times are consistent across sorted, reversed, and random inputs, indicating an O(n log n) complexity characteristic of Merge Sort.
+
+sort3 uses: Bubble Sort
+
+How do you know?: The performancsub e time is lower for sorted input but higher for reversed and random inputs, indicating an O(n) complexity for sorted data and O(n^2) for reversed and random inputs, characteristic of Bubble Sort.
